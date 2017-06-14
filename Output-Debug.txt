@@ -1,0 +1,67 @@
+﻿'WWAHost.exe' (Script): Loaded 'Script Code (MSAppHost/3.0)'. 
+Exception was thrown at line 1, column 8373 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a139e - JavaScript runtime error: 2
+Exception was thrown at line 1, column 9376 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Unable to get property 'length' of undefined or null reference
+Exception was thrown at line 1, column 9956 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1396 - JavaScript runtime error: Array.prototype.sort: argument is not a JavaScript object
+Exception was thrown at line 1, column 9376 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.sort: 'this' is null or undefined
+Exception was thrown at line 1, column 9348 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.forEach: 'this' is null or undefined
+Exception was thrown at line 1, column 9348 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.map: 'this' is null or undefined
+Exception was thrown at line 1, column 9348 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.filter: 'this' is null or undefined
+Exception was thrown at line 1, column 9348 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.some: 'this' is null or undefined
+Exception was thrown at line 1, column 9348 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.every: 'this' is null or undefined
+Exception was thrown at line 1, column 9348 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.reduce: 'this' is null or undefined
+Exception was thrown at line 1, column 9348 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.reduceRight: 'this' is null or undefined
+Exception was thrown at line 1, column 9376 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.indexOf: 'this' is null or undefined
+Exception was thrown at line 1, column 9376 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a138f - JavaScript runtime error: Array.prototype.lastIndexOf: 'this' is null or undefined
+Exception was thrown at line 1, column 14456 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1389 - JavaScript runtime error: Number expected
+Exception was thrown at line 1, column 27235 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1389 - JavaScript runtime error: Number.prototype.toPrecision: 'this' is not a Number object
+Exception was thrown at line 2, column 5804 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1398 - JavaScript runtime error: RegExp.prototype.toString: 'this' is not a RegExp object
+Exception was thrown at line 2, column 8923 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1608 - JavaScript runtime error: String.prototype.endsWith: first argument cannot be a RegExp
+Exception was thrown at line 2, column 8948 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1608 - JavaScript runtime error: String.prototype.endsWith: first argument cannot be a RegExp
+Exception was thrown at line 2, column 8923 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1608 - JavaScript runtime error: String.prototype.includes: first argument cannot be a RegExp
+Exception was thrown at line 2, column 8948 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1608 - JavaScript runtime error: String.prototype.includes: first argument cannot be a RegExp
+Exception was thrown at line 2, column 8923 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1608 - JavaScript runtime error: String.prototype.startsWith: first argument cannot be a RegExp
+Exception was thrown at line 2, column 8948 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a1608 - JavaScript runtime error: String.prototype.startsWith: first argument cannot be a RegExp
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 2, column 20848 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x800a13da - JavaScript runtime error: Typed array constructor argument is invalid
+Exception was thrown at line 3, column 12282 in ms-appx-web://io.cordova.myappcb505f/www/build/polyfills.js
+0x8000ffff - JavaScript runtime error: Argument not optional
+'WWAHost.exe' (Script): Loaded 'Sourcemap (ms-appx-web://io.cordova.myappcb505f/www/build/main.js)'. 
+The program '[2100] WWAHost.exe' has exited with code 1 (0x1).
